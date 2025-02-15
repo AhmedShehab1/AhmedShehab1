@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/AhmedShehab1/count.svg" alt="Visitor's Count" />
 </div>
 
-### 👋 Welcome to My GitHub Profile!
+### ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to My GitHub Profile!
 
 I'm a passionate **Full-Stack Developer** focused on building scalable and user-friendly applications. I love working with **Node.js, Flask, frappe, and Django**, and I'm always eager to learn new technologies!
 
